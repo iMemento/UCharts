@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/unity-ui-extensions/Scripts/Primitives/UIPrimitiveBase.cs">
+    <Files>
+      <File FileName="Assets/unity-ui-extensions/Shaders/SoftMaskShaderText.shader" Line="88" Column="22" />
+      <File FileName="Assets/unity-ui-extensions/Scripts/Primitives/UIPolygon.cs" Line="7" Column="38" />
+      <File FileName="Assets/unity-ui-extensions/Scripts/Primitives/UIPrimitiveBase.cs" Line="5" Column="51" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
