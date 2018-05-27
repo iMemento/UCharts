@@ -1,7 +1,7 @@
 # UCharts
 UCharts allows creating radar charts, pie charts, half pie chart in your Unity3d Games.
 
-<img src="https://github.com/iMemento/UCharts/blob/master/Images/1.gif" width="600" height="360"/>
+<img src="https://github.com/iMemento/UCharts/blob/master/Images/0.gif" width="600" height="360"/>
 <img src="https://github.com/iMemento/UCharts/blob/master/Images/1.gif" width="290" height="300"/>
 
 UGUI Support 
