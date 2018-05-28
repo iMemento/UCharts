@@ -9,4 +9,4 @@ Easy to customize
 Full source code    
 Easy to use
 
-[Buy me a coffee](https://assetstore.unity.com/packages/tools/gui/ucharts-95073)
+I also published this asset on Unity Asset Store, If you love this project, [Buy me a coffee](https://assetstore.unity.com/packages/tools/gui/ucharts-95073)
